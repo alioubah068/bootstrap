@@ -1,0 +1,13 @@
+#bg-image{
+    height: 90VH;
+    background-image: url(../images/Gouvernement-Senegal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bg-images{
+    height: auto;
+    background-image: url(../images/grocery-12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
